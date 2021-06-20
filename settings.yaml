@@ -1,0 +1,4 @@
+baseURL: "https://google.com"
+printerType: "json"
+persist: true
+httpTimeout: 30s
